@@ -120,7 +120,7 @@
             <groupId>jakarta.servlet.jsp.jstl</groupId>
             <artifactId>jakarta.servlet.jsp.jstl-api</artifactId>
             <version>${jstl-api.version}</version>
-            <scope>provided</scope>
+            <!--<scope>provided</scope> -->
         </dependency>
         <!--  Json -->
         <dependency>
